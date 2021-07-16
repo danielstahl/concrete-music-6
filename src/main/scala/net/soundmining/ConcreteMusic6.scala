@@ -375,27 +375,27 @@ object ConcreteMusic6 {
 
     soundPlays.mono(BIG_BOWL_2)
       .playMono(lowLowRate, 2.0)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(0).play(times(1), 0)
 
     soundPlays.mono(MORTAR_RUMBLE_1)
       .playMono(1, 2.6)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(0).play(times(1) + 0.1, 0)
 
     soundPlays.mono(MORTAR_RUMBLE_1)
       .playMono(1, 3.0)
       .sine(469.726 * lowRate)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(0.9).play(times(1) + 0.1, 0)
 
     soundPlays.mono(MORTAR_RUMBLE_1)
       .playMono(1, 3.0)
       .sine(469.726 * lowLowRate)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(-0.9).play(times(1) + 0.1, 0)
 
@@ -421,21 +421,21 @@ object ConcreteMusic6 {
 
     soundPlays.mono(BIG_BOWL_2)
       .playMono(lowLowRate, 2.0)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(0).play(times(3), 0)
 
     soundPlays.mono(BIG_BOWL_2)
       .playMono(lowLowRate + 0.001, 4.0)
       .lowPass(469.726 * lowLowRate)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(0.8).play(times(3) + 0.01, 0)
 
     soundPlays.mono(BIG_BOWL_2)
       .playMono(lowLowRate - 0.001, 4.0)
       .lowPass(469.726 * lowLowRate)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(-0.8).play(times(3) + 0.02, 0)
 
@@ -550,21 +550,21 @@ object ConcreteMusic6 {
 
     soundPlays.mono(BIG_BOWL_2)
       .playMono(lowLowRate, 2.0)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(0).play(times(9), 0)
 
     soundPlays.mono(BIG_BOWL_2)
       .playMono(lowLowRate + 0.001, 4.0)
       .lowPass(469.726 * lowLowRate)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(0.8).play(times(9) + 0.01, 0)
 
     soundPlays.mono(BIG_BOWL_2)
       .playMono(lowLowRate - 0.001, 4.0)
       .lowPass(469.726 * lowLowRate)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(-0.8).play(times(9) + 0.02, 0)
 
@@ -598,21 +598,21 @@ object ConcreteMusic6 {
 
     soundPlays.mono(BIG_BOWL_2)
       .playMono(lowLowRate, 2.0)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(0).play(times(11), 0)
 
     soundPlays.mono(BIG_BOWL_2)
       .playMono(lowLowRate + 0.001, 4.0)
       .lowPass(469.726 * lowLowRate)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(0.8).play(times(11) + 0.01, 0)
 
     soundPlays.mono(BIG_BOWL_2)
       .playMono(lowLowRate - 0.001, 4.0)
       .lowPass(469.726 * lowLowRate)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(-0.8).play(times(11) + 0.02, 0)
 
@@ -702,27 +702,27 @@ object ConcreteMusic6 {
 
     soundPlays.mono(BIG_BOWL_2)
       .playMono(lowLowRate, 2.0)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(0).play(times(16), 0)
 
     soundPlays.mono(MORTAR_RUMBLE_1)
       .playMono(1, 1.6)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(0).play(times(16) + 0.1, 0)
 
     soundPlays.mono(MORTAR_RUMBLE_1)
       .playMono(1, 2.0)
       .sine(469.726 * lowRate)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(0.9).play(times(16) + 0.1, 0)
 
     soundPlays.mono(MORTAR_RUMBLE_1)
       .playMono(1, 2.0)
       .sine(469.726 * lowLowRate)
-      .ring(1156.29 * highRate)
+      .ring(469.726 * highRate)
       .lowPass(1156.29 * highRate)
       .pan(-0.9).play(times(16) + 0.1, 0)
   }
